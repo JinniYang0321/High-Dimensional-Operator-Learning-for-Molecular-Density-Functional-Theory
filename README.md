@@ -13,7 +13,5 @@ There are three packages that need to be used in the code, namely 'numpy', 'scip
 
 ### Instructions
 
-The raw simulation data named 'original_data.npz' can be found in `Data` and the program named 'Training_data_generator.py' can be used to generate the dataset for training.
-The trained model is located in `Model`.
-The program for GCMC simulation of CO2 is provided in 'CO2_GCMC.py' and the high dimensional operator learning is implemented in `High_dimensional_operator.py`.
-The program for spherical harmonic expansion can be found in 'Spherical_harmonic_expansion' and there is a demo data for illustration named 'Demo_data.txt'
+In the `Data` directory, the raw simulation data named `original_data.npz` can be found, which was obtained with the program for GCMC simulation of CO2, provided in `CO2_GCMC.py`. The program named `Training_data_generator.py` can be used to generate the dataset for training.
+In the `Model` directory, the trained model named `model.pth` can be found and the high dimensional operator learning is implemented in the program named `High_Dimensional_Operator.py`. The spherical harmonic expansion is implemented in the program named `Spherical_Harmonic_Expansion`.
