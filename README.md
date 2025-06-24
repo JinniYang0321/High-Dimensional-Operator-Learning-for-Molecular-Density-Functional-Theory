@@ -3,7 +3,7 @@
 This repository contains code, data sets and models corresponding to the following publication:
 
 **High-Dimensional Operator Learning for Molecular Density Functional Theory**  
-*Jinni Yang, Runtong Pan, Jikai Sun, and Jianzhong Wu, [arXiv:2411.03698](https://arxiv.org/abs/2411.03698).*
+*Jinni Yang, Runtong Pan, Jikai Sun, and Jianzhong Wu, [J. Chem. Theory Comput. 2025, 21, 12, 5905–5915](https://pubs.acs.org/doi/full/10.1021/acs.jctc.5c00484).*
 
 
 ### Setup
